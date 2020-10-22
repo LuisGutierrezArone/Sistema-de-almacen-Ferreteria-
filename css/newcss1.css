@@ -1,0 +1,434 @@
+.site-title a:hover,
+.site-title a:visited:hover {
+	color: rgba(221, 104, 26, 0.8);
+}
+
+.site-description {
+	color: #1e73be;
+}
+
+.hero,
+.hero .widget h1,
+.hero .widget h2,
+.hero .widget h3,
+.hero .widget h4,
+.hero .widget h5,
+.hero .widget h6,
+.hero .widget p,
+.hero .widget blockquote,
+.hero .widget cite,
+.hero .widget table,
+.hero .widget ul,
+.hero .widget ol,
+.hero .widget li,
+.hero .widget dd,
+.hero .widget dt,
+.hero .widget address,
+.hero .widget code,
+.hero .widget pre,
+.hero .widget .widget-title,
+.hero .page-header h1 {
+	color: #ffffff;
+}
+
+.main-navigation ul li a,
+.main-navigation ul li a:visited,
+.main-navigation ul li a:hover,
+.main-navigation ul li a:visited:hover {
+	color: #ffffff;
+}
+.main-navigation .sub-menu .menu-item-has-children > a::after {
+	border-right-color: #ffffff;
+	border-left-color: #ffffff;
+}
+.menu-toggle div {
+	background-color: #ffffff;
+}
+header .social-menu a,
+header .social-menu a:visited {
+	color: #ffffff;
+}
+.main-navigation ul li a:hover {
+	color: rgba(255, 255, 255, 0.8);
+}
+header .social-menu a:hover,
+header .social-menu a:visited:hover {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+legend,
+dl dt,
+.entry-title,
+.entry-title a,
+.entry-title a:visited,
+.widget-title {
+	color: #dd681a;
+}
+.entry-title a:hover,
+.entry-title a:visited:hover,
+.entry-title a:focus,
+.entry-title a:visited:focus,
+.entry-title a:active,
+.entry-title a:visited:active {
+	color: rgba(221, 104, 26, 0.8);
+}
+
+table{
+    background-color: white;
+    text-align: left;
+    width: 100%
+}
+
+th,td{
+    border: solid 1px black;
+    color: #191919;
+    text-align: center;
+}
+
+
+input[type="text"]
+input[type="date"]{
+    color: #191919;
+}
+
+body,
+
+select,
+
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus
+ {
+	color: #e5e5e5;
+}
+.fl-callout-text,
+.fl-rich-text {
+	color: #e5e5e5;
+}
+hr {
+	background-color: rgba(229, 229, 229, 0.1);
+	border-color: rgba(229, 229, 229, 0.1);
+}
+
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+
+input[type="color"],
+textarea {
+	color: rgba(229, 229, 229, 0.5);
+	border-color: rgba(229, 229, 229, 0.1);
+}
+select,
+fieldset,
+blockquote,
+pre,
+code,
+abbr,
+acronym {
+	border-color: rgba(229, 229, 229, 0.1);
+}
+
+blockquote,
+.entry-meta,
+.entry-footer,
+.comment-meta .says,
+.logged-in-as {
+	color: #c1c1c1;
+}
+
+.site-footer .widget-title,
+.site-footer h1,
+.site-footer h2,
+.site-footer h3,
+.site-footer h4,
+.site-footer h5,
+.site-footer h6 {
+	color: #ffffff;
+}
+
+.site-footer .widget,
+.site-footer .widget form label {
+	color: #ffffff;
+}
+
+.footer-menu ul li a,
+.footer-menu ul li a:visited {
+	color: #757575;
+}
+.site-info-wrapper .social-menu a {
+	background-color: #757575;
+}
+.footer-menu ul li a:hover,
+.footer-menu ul li a:visited:hover {
+	color: rgba(117, 117, 117, 0.8);
+}
+
+.site-info-wrapper .site-info-text {
+	color: #757575;
+}
+
+a,
+a:visited,
+.entry-title a:hover,
+.entry-title a:visited:hover {
+	color: #dd681a;
+}
+.social-menu a:hover {
+	background-color: #dd681a;
+}
+.main-navigation ul li:hover,
+.main-navigation li.current-menu-item,
+.main-navigation ul li.current-menu-item > a:hover,
+.main-navigation ul li.current-menu-item > a:visited:hover {
+	background-color: #dd681a;
+}
+a:hover,
+a:visited:hover,
+a:focus,
+a:visited:focus,
+a:active,
+a:visited:active {
+	color: rgba(221, 104, 26, 0.8);
+}
+.comment-list li.bypostauthor {
+	border-color: rgba(221, 104, 26, 0.2);
+}
+
+button,
+a.button,
+a.button:visited,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.site-info-wrapper .social-menu a:hover {
+	background-color: #dd681a;
+	border-color: #dd681a;
+}
+a.fl-button,
+a.fl-button:visited,
+.content-area .fl-builder-content a.fl-button,
+.content-area .fl-builder-content a.fl-button:visited {
+	background-color: #dd681a;
+	border-color: #dd681a;
+}
+button:hover,
+button:active,
+button:focus,
+a.button:hover,
+a.button:active,
+a.button:focus,
+a.button:visited:hover,
+a.button:visited:active,
+a.button:visited:focus,
+input[type="button"]:hover,
+input[type="button"]:active,
+input[type="button"]:focus,
+input[type="reset"]:hover,
+input[type="reset"]:active,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:active,
+input[type="submit"]:focus {
+	background-color: rgba(221, 104, 26, 0.8);
+	border-color: rgba(221, 104, 26, 0.8);
+}
+a.fl-button:hover,
+a.fl-button:active,
+a.fl-button:focus,
+a.fl-button:visited:hover,
+a.fl-button:visited:active,
+a.fl-button:visited:focus,
+.content-area .fl-builder-content a.fl-button:hover,
+.content-area .fl-builder-content a.fl-button:active,
+.content-area .fl-builder-content a.fl-button:focus,
+.content-area .fl-builder-content a.fl-button:visited:hover,
+.content-area .fl-builder-content a.fl-button:visited:active,
+.content-area .fl-builder-content a.fl-button:visited:focus {
+	background-color: rgba(221, 104, 26, 0.8);
+	border-color: rgba(221, 104, 26, 0.8);
+}
+
+button,
+button:hover,
+button:active,
+button:focus,
+a.button,
+a.button:hover,
+a.button:active,
+a.button:focus,
+a.button:visited,
+a.button:visited:hover,
+a.button:visited:active,
+a.button:visited:focus,
+input[type="button"],
+input[type="button"]:hover,
+input[type="button"]:active,
+input[type="button"]:focus,
+input[type="reset"],
+input[type="reset"]:hover,
+input[type="reset"]:active,
+input[type="reset"]:focus,
+input[type="submit"],
+input[type="submit"]:hover,
+input[type="submit"]:active,
+input[type="submit"]:focus {
+	color: #ffffff;
+}
+.main-navigation ul > li:hover > a,
+.main-navigation ul > li:hover > a:hover,
+.main-navigation ul > li:hover > a:visited,
+.main-navigation ul > li:hover > a:visited:hover,
+.main-navigation ul li.current-menu-item > a {
+	color: #ffffff;
+}
+a.fl-button
+				a.fl-button:hover,
+a.fl-button:active,
+a.fl-button:focus,
+a.fl-button:visited,
+a.fl-button:visited:hover,
+a.fl-button:visited:active,
+a.fl-button:visited:focus,
+.content-area .fl-builder-content a.fl-button,
+.content-area .fl-builder-content a.fl-button *,
+.content-area .fl-builder-content a.fl-button:visited,
+.content-area .fl-builder-content a.fl-button:visited * {
+	color: #ffffff;
+}
+
+body {
+	background-color: #191919;
+}
+
+.site-header {
+	background-color: #282828;
+}
+.site-header {
+	-webkit-box-shadow: inset 0 0 0 9999em;
+	-moz-box-shadow: inset 0 0 0 9999em;
+	box-shadow: inset 0 0 0 9999em;
+	color: rgba(40, 40, 40, 0.65);
+}
+
+.main-navigation-container,
+.main-navigation.open,
+.main-navigation ul ul,
+.main-navigation .sub-menu {
+	background-color: #212121;
+}
+.side-masthead {
+	background-color: #212121;
+}
+
+.site-footer {
+	background-color: #282828;
+}
+
+.site-info-wrapper {
+	background-color: #191919;
+}
+.site-info-wrapper .social-menu a,
+.site-info-wrapper .social-menu a:visited,
+.site-info-wrapper .social-menu a:hover,
+.site-info-wrapper .social-menu a:visited:hover {
+	color: #191919;
+}
+
+.site-title {
+	font-family: "Oswald", sans-serif;
+}
+
+.main-navigation ul li a,
+.main-navigation ul li a:visited,
+button,
+a.button,
+a.fl-button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	font-family: "Oswald", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+legend,
+dl dt,
+.entry-title,
+.widget-title {
+	font-family: "Oswald", sans-serif;
+}
+
+body,
+p,
+ol li,
+ul li,
+dl dd,
+.fl-callout-text {
+	font-family: "Droid Serif", sans-serif;
+}
+
+blockquote,
+.entry-meta,
+.entry-footer,
+.comment-list li .comment-meta .says,
+.comment-list li .comment-metadata,
+.comment-reply-link,
+#respond .logged-in-as {
+	font-family: "Droid Serif", sans-serif;
+}
+
+.site-title a,
+.site-title a:visited {
+	color: dd681a;}
+
+body.custom-background { background-color: #191919; }
+
+.ventana{
+    background: #ffffff;
+    border: 2px solid #000000;
+    width: 60%;/*--ancho*/
+    color: #ff8000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px; /*--altura*/
+    text-align: center;
+    padding: 40px;
+    min-height:400px;
+    border-radius: 20px;
+    position: absolute;
+    left: 28%;
+    top: 28%;
+    display: none;
+}
+
+#cerrar{   
+    position: absolute;
+    right: 15px;
+    top:10px;
+}
